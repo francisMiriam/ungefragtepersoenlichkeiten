@@ -17,8 +17,3 @@
 .icon{
  align-self: center;
 }
-
-.searchsmall,
-.search{
-    grid-column: 2/8;
-}
