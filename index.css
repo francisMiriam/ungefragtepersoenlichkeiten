@@ -1,0 +1,24 @@
+.inhalt {
+    height: 100%;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows:10em auto;
+   
+}
+
+.color{
+    grid-column: 2 / 12;
+}
+
+.map {
+   grid-column: 1/-1;
+}
+.icon{
+ align-self: center;
+}
+
+.searchsmall,
+.search{
+    grid-column: 2/8;
+}

@@ -1,0 +1,59 @@
+
+html, body {
+font-family:Helvetica, Verdana, Sans-Serif;
+  box-sizing: border-box;
+  height: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0px;
+}
+
+body{
+  background-image: url("p/background.png");
+}
+.color {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #525150;
+  padding: 5px;
+}
+
+.header{
+  font-size: 8em;
+  line-height: 1.2;
+}
+
+.search{
+  font-size: 5em;
+
+}
+
+.searchsmall{
+  font-size: 2em;
+  padding-top: 10px;
+}
+
+.headersmall{
+  font-size: 5em; 
+}
+
+.form-control{
+  font-size: 1em;
+}
+
+.text{
+  font-size: 2em;
+}
+.nest{
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-size: 4em;
+}
+
+a, a:hover, a:active {
+  text-decoration: none;
+  color: #525150;
+}
+
+.map{
+  padding: 2pxö
+}
