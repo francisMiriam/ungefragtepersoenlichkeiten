@@ -18,19 +18,10 @@ body{
 }
 
 .header{
-  font-size: 8em;
+  font-size: 3em;
   line-height: 1.2;
 }
 
-.search{
-  font-size: 5em;
-
-}
-
-.searchsmall{
-  font-size: 2em;
-  padding-top: 10px;
-}
 
 .headersmall{
   font-size: 5em; 
@@ -46,7 +37,7 @@ body{
 .nest{
   padding-top: 2em;
   padding-bottom: 1em;
-  font-size: 4em;
+  font-size: 2em;
 }
 
 a, a:hover, a:active {
