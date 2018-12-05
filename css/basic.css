@@ -1,0 +1,38 @@
+
+html {
+  font-family:Helvetica, Verdana, Sans-Serif;
+}
+
+body{
+  background-image: url("../p/background.png");
+  box-sizing: border-box;
+  font-size: 62.5%;
+  height: 100%;
+  margin: 5vw;
+  line-height: 1.4;
+}
+.color {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #525150;
+  padding: 1em;  
+}
+
+.header{
+  font-size: 4em;
+  line-height: 1.5;
+}
+
+
+.text{
+  font-size: 1.4em;
+}
+
+.text span{
+  font-size: 2em;
+}
+
+a, a:hover, a:active {
+  text-decoration: none;
+  color: #525150;
+}
+
